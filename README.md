@@ -1,5 +1,5 @@
 # MoeSakuraSky
-A color theme for KDE Plasma
+Color schemes for KDE Plasma
 
 |Sky|Night|
 |---|---|
